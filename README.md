@@ -182,11 +182,7 @@ The MQTT device is configured as:
 
 ---
 
-## Disclaimer
-
-This is an unofficial, reverse-engineered protocol implementation. Use at your own risk. The author is not affiliated with Innotech.
-
-## Screenshot
+## Screenshots
 <img width="547" height="356" alt="image" src="https://github.com/user-attachments/assets/997872ff-0cf2-488a-8a7d-82bd1c7f2be2" />
 
 AC controls within Home Assistant
@@ -194,4 +190,10 @@ AC controls within Home Assistant
 <img width="1071" height="209" alt="image" src="https://github.com/user-attachments/assets/d5acc9c7-5aec-4847-a57a-4d1659a912c8" />
 
 Node-RED integrating with iComm Control Centre
+
+---
+
+## Disclaimer
+
+This is an unofficial, reverse-engineered protocol implementation. Use at your own risk. The author is not affiliated with Innotech.
 
