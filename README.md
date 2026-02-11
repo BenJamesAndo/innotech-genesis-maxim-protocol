@@ -1,6 +1,6 @@
 # Innotech Genesis / Maxim Protocol
 
-Partially reverse-engineered TCP protocol for controlling Innotech air conditioning systems via the iComm interface. Data captured via packet capture of the [Supervisor software](https://innotech.com/Products/Digital/GenesisSeries.aspx) (V5.40) communicating with a Genesis II board.
+Partially reverse-engineered TCP protocol for controlling Innotech air conditioning systems via the iComm interface. Data captured via packet capture of the [Supervisor software]([https://innotech.com/Products/Digital/GenesisSeries.aspx](https://innotech.com/Products/ProductDetails.aspx?prodid=81)) (V5.40) communicating with a Genesis II board.
 
 ## Overview
 
@@ -185,3 +185,8 @@ The MQTT device is configured as:
 ## Disclaimer
 
 This is an unofficial, reverse-engineered protocol implementation. Use at your own risk. The author is not affiliated with Innotech.
+
+## Screenshot
+<img width="547" height="356" alt="image" src="https://github.com/user-attachments/assets/997872ff-0cf2-488a-8a7d-82bd1c7f2be2" />
+
+AC controls within Home Assistant
