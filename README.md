@@ -1,6 +1,6 @@
 # Innotech Genesis / Maxim Protocol
 
-Partially reverse-engineered TCP protocol for controlling Innotech air conditioning systems via the iComm interface. Data captured via packet capture of the [Supervisor software](http://www.intec.com.au/) (V5.40) communicating with a Genesis II board.
+Partially reverse-engineered TCP protocol for controlling Innotech air conditioning systems via the iComm interface. Data captured via packet capture of the [Supervisor software](https://innotech.com/Products/Digital/GenesisSeries.aspx) (V5.40) communicating with a Genesis II board.
 
 ## Overview
 
